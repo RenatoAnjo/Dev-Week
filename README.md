@@ -1,6 +1,6 @@
-#Semana DevWeek: Projeto Marvel
+# Semana DevWeek: Projeto Marvel
 <hr>
-##Sobre o projeto:
+## Sobre o projeto:
 Lista com 9 personagens :
 <ul>
 <li>Thor</li>
@@ -18,7 +18,7 @@ Os Personagens ficam no centro da página ;<br>
 A seleção de Personagens - 1 e 2 ;<br>
 Ao escolher Personagem - mudar a imagem e nome ;<br>
 
-##Desenvolvimento 
+## Desenvolvimento 
 <ul>
 <li>HTML</li>
 <li>CSS</li>
