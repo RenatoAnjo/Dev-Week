@@ -15,7 +15,8 @@ Lista com 9 personagens :
 </ul>
 
 Os Personagens ficam no centro da página ;<br>
-A seleção de Personagens - 1 e 2 ;<br>
+O Personagens 1 - acontece a seleção do personagem quando passa mouse ;<br>
+O Personagem 2 - na fica selecionado ;<br>
 Ao escolher Personagem - mudar a imagem e nome ;<br>
 
 ## Desenvolvimento 
