@@ -1,5 +1,4 @@
 # Semana DevWeek: Projeto Marvel
-<hr>
 ## Sobre o projeto:
 Lista com 9 personagens :
 <ul>
